@@ -1,1 +1,2 @@
-FROM docker.n8n.io/n8nio/n8n:ai-beta
+FROM docker.n8n.io/n8nio/n8n:latest
+
